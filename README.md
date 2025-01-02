@@ -1,4 +1,4 @@
-# CSA - 1747 ARTIFICIAL INTELLIGENCE 
+# CSA - 1776 ARTIFICIAL INTELLIGENCE 
 
 1.Write the python program to solve 8-Puzzle problem
 
